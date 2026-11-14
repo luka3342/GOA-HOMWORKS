@@ -1,0 +1,18 @@
+name = input( "Enter your name: ")
+print(name)
+
+num1 = int(input("enter any number"))
+num2 = int(input("enter any number"))
+print(num1 + num2)
+
+age = int(input("12, "))
+print(type(age))
+
+a = 10
+b = "Hello"
+c = 3.5
+
+print(type(a))
+print(type(b))
+print(type(c))
+
